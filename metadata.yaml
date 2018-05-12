@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9738
     wikipedia: http://en.wikipedia.org/wiki/John_William_Burgon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26134#The-Last-Twelve-Verses-of-the-Gospel-According-to-S.-Mark
 gutenberg_issued: '2008-07-27'
 gutenberg_type: Text
 identifiers:
